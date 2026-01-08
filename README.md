@@ -6,8 +6,11 @@ Here’s a step-by-step lab documentation for configuring Okta as an Identity Pr
 Before you begin:
 
 •	Admin access to Okta tenant (Admin Console).
+
 •	Admin access to AWS IAM Identity Center (formerly AWS SSO) in the AWS console.
+
 •	Identity Center enabled in your AWS account/organization.
+
 •	Basic knowledge of SAML concepts.
 
 ✅ Step-by-Step Setup
