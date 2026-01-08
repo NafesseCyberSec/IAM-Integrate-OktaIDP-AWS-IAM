@@ -64,10 +64,11 @@ To automatically sync users/groups from Okta into AWS IAM Identity Center:
 
 1.	In AWS IAM Identity Center settings, look for Automatic provisioning and Enable it.
 o	Copy the SCIM endpoint and access token generated.
-2.	In Okta, go to your IAM Identity Center app Provisioning tab → Integration.
-3.	Enter the SCIM endpoint and token from AWS.
-4.	Configure Push Groups if desired to sync groups into AWS.
-5.	Assign users to the app via the Assignments tab to start provisioning. AWS Documentation
+
+3.	In Okta, go to your IAM Identity Center app Provisioning tab → Integration.
+4.	Enter the SCIM endpoint and token from AWS.
+5.	Configure Push Groups if desired to sync groups into AWS.
+6.	Assign users to the app via the Assignments tab to start provisioning. AWS Documentation
 
 🧪 5) Test the SSO Flow
 
