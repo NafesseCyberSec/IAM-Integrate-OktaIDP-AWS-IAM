@@ -24,6 +24,7 @@ Before you begin:
 5.	After adding, go to the Sign On tab.
 6.	Under SAML Signing Certificates, click Actions → View IdP Metadata.
 7.	Copy all XML metadata and save it as a file named metadata.xml.
+   
 o	This file contains Okta’s SAML IdP metadata you’ll upload to AWS later. AWS Documentation
 
 🔐 2) Configure AWS IAM Identity Center as a Service Provider
